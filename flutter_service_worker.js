@@ -7,9 +7,9 @@ const RESOURCES = {
 "splash/logo.png": "55a50a65c49cb5f2cfa00bddb18e9410",
 "splash/splash.js": "c6a271349a0cd249bdb6d3c4d12f5dcf",
 "splash/style.css": "73202bf0617fd86b0ecb2fe5e3bcff05",
-"index.html": "f4f7d3cbe5d21873af201cde56e550b3",
+"index.html": "e18f360420106ce2d2bb345b127e60bc",
 "/": "8d82d18d2658156777070b8cf4bd866b",
-"main.dart.js": "561c7bf6cd6b223743c3c9985abbecc2",
+"main.dart.js": "0b087d381056927058bea14098b937dd",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
@@ -61,11 +61,7 @@ const RESOURCES = {
 "assets/assets/images/calendar_plus.svg": "f92d5bab5373c4fc1de17dbaa714c5fe",
 "assets/assets/images/help.svg": "8c6f9b66b1f6e3ee3edda77c38149e10",
 "assets/assets/images/login_bg.jpeg": "e9ea5f5445cac42ab4d6352504c9c236",
-"assets/assets/userlist.json": "4476b2f5b723e5c5666d1cd9f2561a67",
-"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
-"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
-"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
-"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba"
+"assets/assets/userlist.json": "4476b2f5b723e5c5666d1cd9f2561a67"
 };
 
 // The application shell files that are downloaded before a service worker can
