@@ -27,14 +27,14 @@ figcaption {
   margin-right: auto;
   position: absolute;
   margin: auto;
-  top: 50%;
+  top: 41%;
   width: 100%;
         }
 
 .center {
   margin: 0;
   position: absolute;
-  top: 50%;
+  top: 41%;
   left: 50%;
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
