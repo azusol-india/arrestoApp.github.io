@@ -7,7 +7,7 @@ const RESOURCES = {
 "splash/logo.png": "55a50a65c49cb5f2cfa00bddb18e9410",
 "splash/splash.js": "c6a271349a0cd249bdb6d3c4d12f5dcf",
 "splash/style.css": "581d6a152b0f1028af164e1cb764ee0d",
-"index.html": "30cc680e4d4eea21adde920ce047cf60",
+"index.html": "0dcc31ed050aa32431e1233e5334cc5c",
 "/": "8d82d18d2658156777070b8cf4bd866b",
 "main.dart.js": "779c52d69c935ccb83657abf1aa5092b",
 "favicon.png": "e7c1e08d5122cedee0b43b2773979256",
